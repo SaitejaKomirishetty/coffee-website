@@ -2,7 +2,7 @@
 
 This is a modern and responsive website for a coffee shop, built with React, ShadCN, and Tailwind CSS. The website features a sleek design with smooth animations, easy navigation, and a focus on showcasing the coffee shop's offerings and atmosphere.
 
-You can try out the deployed version of the app here: [coffee-website](https://saitejakomirishetty.github.io/cofee-website/)
+You can try out the deployed version of the app here: [coffee-website](https://saitejakomirishetty.github.io/coffee-website/)
 
 ![Home section](/Images/home.png.png 'Home section')
 ![body section](/Images/instant.png.png 'Body section')
